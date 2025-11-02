@@ -7,10 +7,16 @@ This wiki refers to my endeavors on Learning Japanese
 - [Jisho](https://jisho.org/)
 - In JP: [https://kotobank.jp/](https://kotobank.jp/)
 
-## [[Grammar]]
+## Grammar Practice
 - Basics to Medium: [japanistry](https://www.japanistry.com/japanese-grammar-guide/)
 - Everything (but complex): [Imabi](https://imabi.org/table-of-contents-%E7%9B%AE%E6%AC%A1/)
 - Complete (but simplified): [guide-to-Japanese](https://www.guidetojapanese.org/grammar_guide.pdf)
+
+## Radicals
+
+- Traditional (214) List: [Kanji Alive](https://kanjialive.com/214-traditional-kanji-radicals/)
+- Most Phonetic Components: [the-sound-sisterhoods/](https://learnjapaneseonline.info/2014/12/06/the-key-to-japanese-kanji-pronunciation-meet-the-sound-sisterhoods/)
+- Every Phonetic Component: [kanji-phonetics](https://www.edrdg.org/~jwb/kanjiphonetics/) 
 
 ## Practice Links
 - Anki vocab (with audio): [JLPT Tango N5 Deck - Migaku Note Types - AnkiWeb](https://ankiweb.net/shared/info/419481234) 

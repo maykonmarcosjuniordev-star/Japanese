@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1762116502443,
+      "title": "All",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:Kanji  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Kana  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:Grammar  ",
+            "color": {
+              "a": 1,
+              "rgb": 11206400
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.27395833333333,
+        "lineSizeMultiplier": 5,
+        "collapse-forces": true,
+        "centerStrength": 0,
+        "repelStrength": 5,
+        "linkStrength": 1,
+        "linkDistance": 378,
+        "scale": 0.7947214832364364,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1762116558284,
+      "title": "Wiki",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": true,
+        "showAttachments": true,
+        "hideUnresolved": true,
+        "showOrphans": false,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "path:Kanji  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Kana  ",
+            "color": {
+              "a": 1,
+              "rgb": 14725458
+            }
+          },
+          {
+            "query": "path:Grammar  ",
+            "color": {
+              "a": 1,
+              "rgb": 11206400
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.27395833333333,
+        "lineSizeMultiplier": 5,
+        "collapse-forces": true,
+        "centerStrength": 0,
+        "repelStrength": 5,
+        "linkStrength": 1,
+        "linkDistance": 378,
+        "scale": 0.7947214832364364,
+        "close": true
+      }
+    }
+  ]
+}
