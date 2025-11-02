@@ -1,11 +1,4 @@
-# Japanese
-
 This page refers to my endeavors on Learning Japanese
-
-## Alphabets
-- [Kanji](Kanji.md)
-- [Hiragana](Hiragana.md)
-- [Katakana](Katakana)
 
 ## Dictionaries:
 - [JapanDict](https://www.japandict.com/radicals#:~:text=Every%20kanji%20character%20can%20be,different%20radicals%3A%20%E5%AE%80and%20%E5%A5%B3.)  
