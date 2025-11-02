@@ -1,0 +1,6 @@
+[submodule "Japanese.wiki"]
+	path = Japanese.wiki
+	url = git@github.com:maykonmarcosjuniordev-star/Japanese.wiki.git
+[submodule ".wiki"]
+	path = .wiki
+	url = git@github.com:maykonmarcosjuniordev-star/Japanese.wiki.git
